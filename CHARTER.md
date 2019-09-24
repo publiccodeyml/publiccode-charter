@@ -9,13 +9,13 @@
 The objective of the PublicCode.yml Open Project is to
 develop the file format for describing public software, create awareness and
 educate the world about the benefits of using open source software in
-governments. The group will maintain the file format and keep it aligned with
+public administrations. The group will maintain the file format and keep it aligned with
 the needs of the governments and the agencies. |
 | **3. Purpose and Scope**  | 
-Public software is becoming more and more relevant each day, however its
+Public code is becoming more and more relevant each day, however its
 discoverability is crucial in order to effectively reuse it also in contexts
 different from the ones where it was originated. 
-As such, creating catalogues where public software is indexed and easily
+As such, creating catalogues where public code is indexed and easily
 searchable is key to stimulate its reuse. However, catalogues need to be
 populated in an automated way to avoid scalability issues and to quickly grow.
 The publiccode.yml format goes exactly in this direction. In
@@ -48,7 +48,7 @@ which may be developed by the publiccode.yml Open Project working group:<br/><br
     </li>
     <li>**Education**
         <ol>
-            <li>What is public software and why we need it?</li>
+            <li>What is public code and why we need it?</li>
             <li>Relationship between public code and open source licenses</li>
             <li>Importance of having a standard for public code</li>
             <li>Advantages of the standard</li>
@@ -58,7 +58,7 @@ which may be developed by the publiccode.yml Open Project working group:<br/><br
     <li>**Marketing**
         <ol>
             <li>Impact of public code in an open government perspective</li>
-            <li>Economic value of reuse public software</li>
+            <li>Societal impact of public code reuse</li>
             <li>Standards & Innovation</li>
         </ol>
     </li>
