@@ -10,11 +10,7 @@
 | **4. Business Benefits**   | Government bodies and agencies are starting to adopt free and open source software thanks to a set of federal and national policies. As such, there is a strong need to clearly define a metadata specification standard to make such software easy indexable and eventually discoverable. The Publiccode.yml Open Project will also focus on studying the economic impact of the standard and how its introduction will affect the discoverabily and reusability process.
 | **5. Relationship to Other Projects**  | None|
 | **6. Repositories and Licenses** | The Github organization named [publiccode.yml](https://github.com/publiccodeyml) will contain the publiccode.yml file, its documentation together with a set of tools needed to further work on the standard. The license is CC0. |
-| **7. Initial Contributions from Existing Work**  | The initial version of the publiccode.yml specification has been initiated, curated and it is currently maintained by the Italian Digital Transformation Team of the Italian Government. The team is curently:
-* Riccardo Iaconelli (no longer part of the Digital Transformation Team)
-* Leonardo Favario
-* Andrea Biancini
-* [This](https://github.com/italia/publiccode.yml) is the current repository.|
+| **7. Initial Contributions from Existing Work**  | The initial version of the publiccode.yml specification has been initiated, curated and it is currently maintained by the Italian Digital Transformation Team of the Italian Government. The team is curently: <ul><li>Riccardo Iaconelli (no longer part of the Digital Transformation Team)</li><li>Leonardo Favario</li><li>Andrea Biancini</li><li>Alessandro Ranellucci</li></ul>. [This](https://github.com/italia/publiccode.yml) is the current repository.|
 
 The following is an initial list of activities and materials which may be developed by the publiccode.yml Open Project working group.<br/><br/>
 <ol>
