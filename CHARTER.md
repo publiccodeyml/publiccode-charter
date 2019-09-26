@@ -14,16 +14,16 @@
 
 The following is an initial list of activities and materials which may be developed by the publiccode.yml Open Project working group.<br/><br/>
 <ol>
-    <li>**Standard Development
+    <li><b>Standard Development</b>
         <ol>
             <li>Definition of the main international keys</li>
             <li>Definition of recognized rules for Country customization</li>
             <li>Definition and development of working reference materials</li>
-    <li>**Tools**
+    <li><b>Tools</b>
         <ol>
             <li>Definition of a set of working tools</li>
             <li>Development of a set of tools</li>
-    <li>**Awareness**
+    <li><b>Awareness</b>
         <ol>
             <li>Dedicated Website</li>
             <li>Media Outreach Campaign</li>
@@ -31,7 +31,7 @@ The following is an initial list of activities and materials which may be develo
             <li>Publiccode Hackathon</li>
         </ol>
     </li>
-    <li>**Education**
+      <li><b>Education</b>
         <ol>
             <li>What is public code and why we need it?</li>
             <li>Relationship between public code and open source licenses</li>
@@ -40,7 +40,7 @@ The following is an initial list of activities and materials which may be develo
             <li>Public code in governments</li>
         </ol>
     </li>
-    <li>**Marketing**
+    <li><b>Marketing</b>
         <ol>
             <li>Impact of public code in an open government perspective</li>
             <li>Societal impact of public code reuse</li>
