@@ -1,7 +1,7 @@
 <img src="img/oasis-op-logo.png" width="200">
 
-| |<h1>PublicCode.yml Charter</h1>  |
-|-----------------------------------|-----------------------------------|
+| <h1>PublicCode.yml Charter</h1> | |
+|------------------------|--- |
 | **1. Project Name**   |   |
 | ***1.1 Full Name***     | PublicCode.yml |
 | ***1.2 Familiar Name*** | PublicCode-community |
@@ -10,12 +10,9 @@
 populated in an automated way to avoid scalability issues and to quickly grow. The publiccode.yml format goes exactly in this direction. In fact, it is a file that has to be stored in the root of the repository of the open source software in question containing the metadata definition of such software. In this way, it is quite trivial for automated algorithms, such as a crawler, to look for the file, extract relevant information from it, create a HTML page dedicated to that software and then insert such page in the catalogue.<br/><br/>Below this table is an initial list of activities and materials which may be developed by the publiccode.yml Open Project working group.|
 | **4. Business Benefits**   | 
 Government bodies and agencies are starting to adopt free and open source software thanks to a set of federal and national policies. As such, there is a strong need to clearly define a metadata specification standard to make such software easy indexable and eventually discoverable. The Publiccode.yml Open Project will also focus on studying the economic impact of the standard and how its introduction will affect the discoverabily and reusability process.
-| **5. Relationship to Other Projects**  |
-
-| **6. Repositories and Licenses** |
-The Github organization named [publiccode.yml](https://github.com/publiccodeyml) will contain the publiccode.yml file, its documentation together with a set of tools needed to further work on the standard. The license is CC0. |
-| **7. Initial Contributions from Existing Work**  |  
-The initial version of the publiccode.yml specification has been initiated, curated and it is currently maintained by the Italian Digital Transformation Team of the Italian Government. The team is curently:
+| **5. Relationship to Other Projects**  | None|
+| **6. Repositories and Licenses** | The Github organization named [publiccode.yml](https://github.com/publiccodeyml) will contain the publiccode.yml file, its documentation together with a set of tools needed to further work on the standard. The license is CC0. |
+| **7. Initial Contributions from Existing Work**  | The initial version of the publiccode.yml specification has been initiated, curated and it is currently maintained by the Italian Digital Transformation Team of the Italian Government. The team is curently:
 * Riccardo Iaconelli (no longer part of the Digital Transformation Team)
 * Leonardo Favario
 * Andrea Biancini
