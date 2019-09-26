@@ -5,28 +5,9 @@
 | **1. Project Name**   |   |
 | ***1.1 Full Name***     | PublicCode.yml |
 | ***1.2 Familiar Name*** | PublicCode-community |
-| **2. Abstract**   | 
-The objective of the PublicCode.yml Open Project is to
-develop the file format for describing public software, create awareness and
-educate the world about the benefits of using open source software in
-public administrations. The group will maintain the file format and keep it aligned with
-the needs of the governments and the agencies. |
-| **3. Purpose and Scope**  | 
-Public code is becoming more and more relevant each day, however its
-discoverability is crucial in order to effectively reuse it also in contexts
-different from the ones where it was originated. 
-As such, creating catalogues where public code is indexed and easily
-searchable is key to stimulate its reuse. However, catalogues need to be
-populated in an automated way to avoid scalability issues and to quickly grow.
-The publiccode.yml format goes exactly in this direction. In
-fact, it is a file that has to be stored in the root of the repository
-of the open source software in question containing the metadata
-definition of such software. In this way, it is quite trivial for automated
-algorithms, such as a crawler, to look for the file, extract relevant
-information from it, create a HTML page dedicated to that software and then insert
-such page in the catalogue.
-
-<br/><br/>The following is an initial list of activities and materials
+| **2. Abstract**   |  The objective of the PublicCode.yml Open Project is to develop the file format for describing public software, create awareness and educate the world about the benefits of using open source software in public administrations. The group will maintain the file format and keep it aligned with the needs of the governments and the agencies. |
+| **3. Purpose and Scope**  | Public code is becoming more and more relevant each day, however its discoverability is crucial in order to effectively reuse it also in contexts different from the ones where it was originated. As such, creating catalogues where public code is indexed and easily searchable is key to stimulate its reuse. However, catalogues need to be
+populated in an automated way to avoid scalability issues and to quickly grow. The publiccode.yml format goes exactly in this direction. In fact, it is a file that has to be stored in the root of the repository of the open source software in question containing the metadata definition of such software. In this way, it is quite trivial for automated algorithms, such as a crawler, to look for the file, extract relevant information from it, create a HTML page dedicated to that software and then insert such page in the catalogue.<br/><br/>The following is an initial list of activities and materials
 which may be developed by the publiccode.yml Open Project working group:<br/><br/>
 <ol>
     <li>**Standard Development
