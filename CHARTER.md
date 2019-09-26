@@ -5,15 +5,85 @@
 | **1. Project Name**   |   |
 | ***1.1 Full Name***     | PublicCode.yml |
 | ***1.2 Familiar Name*** | PublicCode-community |
-|**2. Abstract**   | The objective of the PublicCode.yml Open Project is to develop the file format for describing public software, create awareness and educate the world about the benefits of using open source in governments. The group will maintain the file format and keep it aligned with the needs of the governments and the agencies   |
-|**3. Purpose and Scope**  | Educate users of personal productivity applications such as office suites, word processors, text/document editors, spreadsheets, presentation software, and the likes, about the advantages of adopting the international, ISO-published, ODF standard. Help users  migrate from pseudo-standard formats to ODF to ensure interoperability and save costs.<br/><br/>The following is an initial list of activities and materials which may be developed by the ODF Marketing Open Project:<br/><br/><ol><li>**Awareness**<ol><li>Dedicated Website</li><li>Social Media Campaign</li><li>Media Outreach Campaign</li><li>Conference Program - Plugfest</li></ol></li><li>**Education**<ol><li>What is a Document Standard?</li><li>Importance of Document Standards</li><li>Advantages of Document Standards</li><li>De Jure vs De Facto Standards</li></ol></li><li>**Marketing**<ol><li>Impact of Standards on Productivity</li><li>Economic Value of Interoperability</li><li>Competitive Advantages of ODF</li><li>Standards & Innovation</li></ol></li></ol> |
-|**4. Business Benefits**   | Users of personal productivity software will benefit from the ODF awareness and education campaign, as they will learn about how true document interoperability can protect their data into the future and ensure freedom-of-choice in software.<br/><br/>Large organizations deploying personal productivity software will discover the huge savings made possible by ODF, with the associated advantage of increased security thanks to the reduced number of vulnerabilities affecting files based on standard file formats. (For a comparison, please search the NIST CVE database: https://nvd.nist.gov/vuln/search).|
-|**5. Relationship to Other Projects**  |The ODF Advocacy Open Project can be related to other open source projects using ODF as their native file format such as Calligra, AbiWord and Gnumeric, or compatible with ODF such as Scribus.<br/>The ODF Advocacy Open Project can also be related to proprietary applications supporting ODF, provided they do not detract from the project’s original objective to promote the use of ODF.|
-|**6. Repositories and Licenses** |https://github.com/ODF-Advocacy Documents will be released under CC license Attribution 4.0 International (CC BY 4.0). |
-|**7. Initial Contributions from Existing Work**  |  |
+| **2. Abstract**   | 
+The objective of the PublicCode.yml Open Project is to
+develop the file format for describing public software, create awareness and
+educate the world about the benefits of using open source software in
+public administrations. The group will maintain the file format and keep it aligned with
+the needs of the governments and the agencies. |
+| **3. Purpose and Scope**  | 
+Public code is becoming more and more relevant each day, however its
+discoverability is crucial in order to effectively reuse it also in contexts
+different from the ones where it was originated. 
+As such, creating catalogues where public code is indexed and easily
+searchable is key to stimulate its reuse. However, catalogues need to be
+populated in an automated way to avoid scalability issues and to quickly grow.
+The publiccode.yml format goes exactly in this direction. In
+fact, it is a file that has to be stored in the root of the repository
+of the open source software in question containing the metadata
+definition of such software. In this way, it is quite trivial for automated
+algorithms, such as a crawler, to look for the file, extract relevant
+information from it, create a HTML page dedicated to that software and then insert
+such page in the catalogue.
 
-For more information, please see:
-- [[Open Projects Guide]](https://github.com/oasis-open-projects/documentation/tree/master/guides)
-- [[Getting Started with Open Projects]](https://github.com/oasis-open-projects/documentation/blob/master/guides/getting-started-guide.md)
-- [[Open Project Rules]](https://www.oasis-open.org/policies-guidelines/open-projects-process)
-- [[Open Projects Website]](http://oasis-open-projects.org)
+<br/><br/>The following is an initial list of activities and materials
+which may be developed by the publiccode.yml Open Project working group:<br/><br/>
+<ol>
+    <li>**Standard Development
+        <ol>
+            <li>Definition of the main international keys</li>
+            <li>Definition of recognized rules for Country customization</li>
+            <li>Definition and development of working reference materials</li>
+    <li>**Tools**
+        <ol>
+            <li>Definition of a set of working tools</li>
+            <li>Development of a set of tools</li>
+    <li>**Awareness**
+        <ol>
+            <li>Dedicated Website</li>
+            <li>Media Outreach Campaign</li>
+            <li>Publiccode Conference</li>
+            <li>Publiccode Hackathon</li>
+        </ol>
+    </li>
+    <li>**Education**
+        <ol>
+            <li>What is public code and why we need it?</li>
+            <li>Relationship between public code and open source licenses</li>
+            <li>Importance of having a standard for public code</li>
+            <li>Advantages of the standard</li>
+            <li>Public code in governments</li>
+        </ol>
+    </li>
+    <li>**Marketing**
+        <ol>
+            <li>Impact of public code in an open government perspective</li>
+            <li>Societal impact of public code reuse</li>
+            <li>Standards & Innovation</li>
+        </ol>
+    </li>
+</ol>|
+| **4. Business Benefits**   | 
+Government bodies and agencies are starting to adopt free and open source
+software thanks to a set of federal and national policies. As such, there is
+a strong need to clearly define a metadata specification standard to make such
+software easy indexable and eventually discoverable. The Publiccode.yml Open
+Project will also focus on studying the economic impact of the standard and how
+its introduction will affect the discoverabily and reusability process.
+
+| **5. Relationship to Other Projects**  |
+
+| **6. Repositories and Licenses** |
+The Github organization named
+[publiccode.yml](https://github.com/publiccodeyml) will contain the
+publiccode.yml file, its documentation together with a set of tools needed to
+further work on the standard. 
+The license is CC0.
+|
+
+| **7. Initial Contributions from Existing Work**  |  
+The initial version of the publiccode.yml specification has been initiated,
+curated and it is currently maintained by the Italian Digital Transformation
+Team of the Italian Government.
+[This](https://github.com/italia/publiccode.yml) is the current repository. 
+|
