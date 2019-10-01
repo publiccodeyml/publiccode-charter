@@ -34,4 +34,4 @@ The Project Governing Board provides top-level guidance and strategic direction 
 
 -insert-here-
 
-Anyone interested in the work of the ODF Advocacy Open Project is welcome to subscribe by sending an empty email to odf-advocacy-subscribe@lists.oasis-open.org and replying to the confirmation email. [List archives](https://lists.oasis-open.org/archives/odf-advocacy/201903/maillist.html) are publicly viewable. 
+Anyone interested in the work of the PublicCode.yml Open Project is welcome to subscribe by sending an empty email to xxx@lists.oasis-open.org and replying to the confirmation email. [List archives](#) are publicly viewable. 
