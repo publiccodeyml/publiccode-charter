@@ -14,9 +14,8 @@ PublicCode.yml is _(in the process of becoming)_ an [OASIS Open Project](https:/
 
 The PublicCode.yml Open Project relies on organizational sponsorship to fund its work. The PublicCode.yml open project is sponsored by:
 
-[CIB labs GmbH](https://www.cib.de/)
-
-[The Document Foundation](https://www.documentfoundation.org/)
+<!-- [CIB labs GmbH](https://www.cib.de/)
+[The Document Foundation](https://www.documentfoundation.org/) -->
 
 [KDE e.V.](https://ev.kde.org)
 
@@ -26,8 +25,8 @@ To become an ODF Advocacy Sponsor, visit [Open Project Sponsorship](https://oasi
 
 The Project Governing Board provides top-level guidance and strategic direction for PublicCode.yml. Members of the Board are: 
 
-*  Marina Latini (marina.latini@cib.de), [CIB labs GmbH](https://www.cib.de/)
-*  Italo Vignoli (italo@documentfoundation.org), [The Document Foundation](https://www.documentfoundation.org/)
+<!-- *  Marina Latini (marina.latini@cib.de), [CIB labs GmbH](https://www.cib.de/) -->
+<!-- *  Italo Vignoli (italo@documentfoundation.org), [The Document Foundation](https://www.documentfoundation.org/) -->
 *  Riccardo Iaconelli (riccardo@kde.org), [KDE e.V.](https://ev.kde.org)
 
 ## Maintainers
