@@ -24,11 +24,18 @@ To become an ODF Advocacy Sponsor, visit [Open Project Sponsorship](https://oasi
 
 ## Project Governing Board
 
-The Project Governing Board provides top-level guidance and strategic direction for ODF Advocacy. Members of the Board are: 
+The Project Governing Board provides top-level guidance and strategic direction for PublicCode.yml. Members of the Board are: 
 
 *  Marina Latini (marina.latini@cib.de), [CIB labs GmbH](https://www.cib.de/)
 *  Italo Vignoli (italo@documentfoundation.org), [The Document Foundation](https://www.documentfoundation.org/)
 *  Riccardo Iaconelli (riccardo@kde.org), [KDE e.V.](https://ev.kde.org)
+
+## Maintainers
+
+The maintainers of the project are:
+
+* Leonardo Favario
+* Riccardo Iaconelli
 
 ## Mailing list
 
