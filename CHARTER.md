@@ -19,10 +19,14 @@
             <li>Definition of the main international keys</li>
             <li>Definition of recognized rules for Country customization</li>
             <li>Definition and development of working reference materials</li>
+        </ol>
+    </li>
     <li><b>Tools</b>
         <ol>
             <li>Definition of a set of working tools</li>
             <li>Development of a set of tools</li>
+        </ol>
+    </li>
     <li><b>Awareness</b>
         <ol>
             <li>Dedicated Website</li>
@@ -31,7 +35,7 @@
             <li>PublicCode Hackathon</li>
         </ol>
     </li>
-      <li><b>Education</b>
+    <li><b>Education</b>
         <ol>
             <li>What is public code and why we need it?</li>
             <li>Relationship between public code and open source licenses</li>
